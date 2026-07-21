@@ -34,8 +34,18 @@ h2 {
 }
 
 H2 {
-    font-size: 50px;
+    font-size: 40px;
     color: darkblue;
+}
+
+H3 {
+    font-size: 25px;
+    color: rebeccapurple;
+}
+
+H5 {
+    font-size: 25px;
+    color: rebeccapurple;
 }
 
 li {
