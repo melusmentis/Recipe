@@ -27,3 +27,39 @@
   grid-area: footer;
   text-align: center;  
 }
+
+h2 {
+    font-size: 100px;
+    color: black;
+}
+
+H2 {
+    font-size: 100px;
+    color: darkblue;
+}
+
+li {
+    font-size: 20px;
+    color: purple;
+}
+
+
+body {
+    background-color: thistle;
+}
+
+
+h3 {
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+p {
+    font-size: 20px;
+    color: purple;
+}
+
+h4 {
+    font-size: 30px;
+    color: rebeccapurple;
+}
