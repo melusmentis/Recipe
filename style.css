@@ -28,10 +28,17 @@
   text-align: center;  
 }
 
+img {
+  float: right;
+  margin-left: 15px;
+  width: 200px;
+  height: 200px;
+}
+
 h2 {
     font-size: 90px;
     color: darkblue;
-    font-family:'Brush Script MT', cursive;
+    font-family: Tahoma, sans-serif;
 }
 
 H2 {
