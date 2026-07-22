@@ -35,7 +35,7 @@ img {
 }
 
 h1 {
-    font-size: 90px;
+    font-size: 50px;
     color: darkblue;
     font-family: Tahoma, sans-serif;
     border: 1px solid plum;
@@ -50,13 +50,19 @@ H2 {
 
 H3 {
     font-size: 25px;
-    color: rebeccapurple;
+    color: steelblue;
+    font-family: Tahoma, sans-serif;
+}
+
+H4 {
+    font-size: 25px;
+    color: steelblue;
     font-family: Tahoma, sans-serif;
 }
 
 H5 {
     font-size: 25px;
-    color: rebeccapurple;
+    color: steelblue;
     font-family: Tahoma, sans-serif;
 }
 
@@ -82,7 +88,7 @@ p {
     font-family: Tahoma, sans-serif;
 }
 
-h4 {
+h6 {
     font-size: 30px;
     color: rebeccapurple;
     font-family: Tahoma, sans-serif;
