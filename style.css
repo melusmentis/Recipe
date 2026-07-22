@@ -30,27 +30,32 @@
 
 h2 {
     font-size: 90px;
-    color: black;
+    color: darkblue;
+    font-family: Tahoma, sans-serif;
 }
 
 H2 {
     font-size: 40px;
     color: darkblue;
+    font-family: Tahoma, sans-serif;
 }
 
 H3 {
     font-size: 25px;
     color: rebeccapurple;
+    font-family: Tahoma, sans-serif;
 }
 
 H5 {
     font-size: 25px;
     color: rebeccapurple;
+    font-family: Tahoma, sans-serif;
 }
 
 li {
     font-size: 20px;
     color: purple;
+    font-family: Tahoma, sans-serif;
 }
 
 body {
@@ -60,14 +65,17 @@ body {
 h3 {
     font-size: 30px;
     color: rebeccapurple;
+    font-family: Tahoma, sans-serif;
 }
 
 p {
-    font-size: 20px;
+    font-size: 22px;
     color: purple;
+    font-family: Tahoma, sans-serif;
 }
 
 h4 {
     font-size: 30px;
     color: rebeccapurple;
+    font-family: Tahoma, sans-serif;
 }
